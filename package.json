@@ -17,5 +17,9 @@
   },
   "keywords": ["frontend", "workflow", "claude-code", "skills", "code-review"],
   "author": "popeye",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Popeye-Wz/coolflow.git"
+  }
 }

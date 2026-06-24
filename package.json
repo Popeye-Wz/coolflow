@@ -1,0 +1,21 @@
+{
+  "name": "coolflow",
+  "version": "1.1.0",
+  "description": "团队 AI 前端工作流：强制流程 + 自动检索技能 + 知识沉淀闭环。npm 全局安装后 coolflow init 写入 ~/.claude，所有项目生效。",
+  "type": "module",
+  "bin": {
+    "coolflow": "bin/coolflow.mjs"
+  },
+  "files": [
+    "skills",
+    "hooks",
+    "defaults",
+    "bin"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["frontend", "workflow", "claude-code", "skills", "code-review"],
+  "author": "popeye",
+  "license": "MIT"
+}

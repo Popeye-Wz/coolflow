@@ -1,0 +1,28 @@
+package.json
+  a863e644b33d9519 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "a8e0fcb8deb44462702c3ff650f457ae84465d93",
+  "prompts": {
+    "a863e644b33d9519": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6646e11c-bad9-487e-8e0f-622843905e80",
+        "model": "kimi-k2.6"
+      },
+      "human_author": "popeyewang",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0,
+      "messages_url": "http://10.9.63.227:8000/cas/5134e688c8673cd95b5022c6f0836346516eba17ee41708df89ef5fefe86f5b7",
+      "custom_attributes": {
+        "team": "消金研发中心",
+        "user": "popeyewang"
+      }
+    }
+  }
+}
